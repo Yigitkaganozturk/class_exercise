@@ -3,8 +3,7 @@
 Created on Nov. 23  10:23:43 2022
 @author: CS115
 """
-import os
-os.chdir("D:/Users/kagan.ozturk-ug/Desktop/Lab08_YigitKaganOzturk_22103072")
+
 from FlashCard import *
 import random
 
